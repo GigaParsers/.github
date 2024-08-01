@@ -7,8 +7,8 @@
 **Блок "Корпоративно-инвестиционный бизнес" &nbsp;&nbsp;| &nbsp;&nbsp;трайб "Corporate Customers 360" &nbsp;&nbsp;| &nbsp;&nbsp;кластер "AI Помощники КИБ"**
 
 ## Состав команды
-* [Максим Викторович Абрамов](https://t.me/max_abramof) — тимлид Giga Parsers
-* [Анастасия Андреевна Корепанова](https://t.me/desmanini) — тимлид платформа
+* [Максим Викторович Абрамов] — тимлид Giga Parsers
+* [Анастасия Андреевна Корепанова] — тимлид платформа
 * [Павел Андреевич Никитин](https://github.com/paNikitin) — техлид
 * [Артём Алексеевич Чекалев](https://github.com/ArtemChekalev) — руководитель разработки
 * [Вадим Тимурович Галимов](https://github.com/Angon-pro) — DS
