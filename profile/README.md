@@ -8,9 +8,9 @@
 
 ## Состав команды
 * [Максим Викторович Абрамов](https://t.me/max_abramof) — тимлид Giga Parsers
-* [Анастасия Андреевна Корепанова](https://t.me/desmanini) — лидер направления
-* [Павел Андреевич Никитин](https://github.com/paNikitin) — технический директор
-* [Артём Алексеевич Чекалев](https://github.com/ArtemChekalev) — руководитель направления
+* [Анастасия Андреевна Корепанова](https://t.me/desmanini) — тимлид платформа
+* [Павел Андреевич Никитин](https://github.com/paNikitin) — техлид
+* [Артём Алексеевич Чекалев](https://github.com/ArtemChekalev) — руководитель разработки
 * [Вадим Тимурович Галимов](https://github.com/Angon-pro) — DS
 * [Ян Аркадьевич Гончаров](https://github.com/GoncharovYan) — DS
 * [Рустам Альбертович Кадыров](https://github.com/HedwigIndustries) — Python
